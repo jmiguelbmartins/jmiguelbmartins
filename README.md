@@ -10,7 +10,7 @@
   <img align="center" alt="miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="miguel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="miguel-uipath" height="30" width="85" src="https://wikiimg.tojsiabtv.com/wikipedia/en/8/80/UiPath_2019_Corporate_Logo.png"
+  <img align="center" alt="miguel-uipath" height="30" width="85" src="https://wikiimg.tojsiabtv.com/wikipedia/en/8/80/UiPath_2019_Corporate_Logo.png">
   <img align="right" alt="miguel-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/702553574995132553/954879727804481606/baby_yoda.jpg">
 </div>
   
