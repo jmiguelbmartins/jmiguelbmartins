@@ -1,4 +1,4 @@
-## PT: Olá, eu sou o José Miguel Barqueiro Martins, trabalho com programação e estudo e crio robots(RPA) usando a plataforma UiPath, sou do Porto, Portugal <br> EN: Hi, I am José Martins, Software and Web Developer I also create and study robots through RPA (Robotic Process Automation) using UiPath, I'm from Porto, Portugal 
+## PT: Olá, eu sou José Martins, trabalho com programação também crio e estudo robôs através de RPA usando a plataforma UiPath, sou do Porto, Portugal <br> EN: Hi, I am José Martins, Software and Web Developer I also create and study robots through RPA (Robotic Process Automation) using UiPath, I'm from Porto, Portugal 
 
 <div align="center">
   <a href="https://github.com/jmiguelbmartins">
